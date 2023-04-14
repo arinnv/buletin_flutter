@@ -1,4 +1,4 @@
-# buletin_flutter
+# buletin_flutter - Ari ahmad zulfikar_2142005
 mobile flutter
 
 berisi pengembangan project untuk tugas mobile programming.
